@@ -14,8 +14,8 @@ def main ():  # MAIN é a porta de entrada de um programa
     s = soma (x,y)
     subt = sub (x,y)
     multip = mult (x,y)
-    print (f"Soma = {s}")
-    print (f"Subtração = {subt}")
+    print (f"Soma da alegria = {s}")
+    print (f"Subtração da alegria= {subt}")
     print (f"Multiplicação = {multip}")
 
 
